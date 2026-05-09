@@ -1,1 +1,1 @@
-# zindi-african-trust-safety
+# Learning Rust.
